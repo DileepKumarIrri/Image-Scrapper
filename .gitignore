@@ -5,3 +5,4 @@ image_downloads/**
 __pycache__
 .venv
 .vscode
+env
