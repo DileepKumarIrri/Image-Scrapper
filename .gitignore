@@ -1,0 +1,8 @@
+csv_downloads/**
+!csv_downloads/.gitkeep
+image_downloads/**
+!image_downloads/.gitkeep
+__pycache__
+.venv
+.vscode
+env
